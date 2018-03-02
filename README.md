@@ -7,5 +7,5 @@
 ```
 docker run --rm \
       -v `pwd`/downloads:/home/seluser/downloads \
-      chrisgarrett/selenium-node-chrome:3.5.2
+      chrisgarrett/selenium-node-chrome:3.9.1
 ```
